@@ -16,7 +16,7 @@ The goal of the project was to design, create use and manage relational database
 **Data Manipulation:** Various CRUD operations (Create, Read, Update, Delete). Indexing for important tables. Setting relations as aggregation.
 **Data Analysis:** Joins, Aggregations, Subqueries. Creation of stored procedures for reusable logic.
 
-**TABLEAU Interactive Dashboard:** Interactive Dashboard made with data quaried from relational databases.
+**TABLEAU Interactive Dashboard:** Interactive Dashboard made with data quaried from relational databases. Find Screenshot of the table in TABLEAU folder, as well as link to Tableau Public to use the dashboard.
 
 ## Data Source
 
