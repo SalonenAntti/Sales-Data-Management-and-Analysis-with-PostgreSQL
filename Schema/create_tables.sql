@@ -93,6 +93,7 @@ CREATE TABLE reviews (
 );
 
 -- Data insertion
+
 INSERT INTO categories (CategoryName, Description) VALUES
 ('Grocery', 'Food and beverages'),
 ('Electronics', 'Consumer electronics and gadgets'),
