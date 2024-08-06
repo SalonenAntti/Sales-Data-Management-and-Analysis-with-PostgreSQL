@@ -1,3 +1,7 @@
+-- =====================================
+--  Schema creation
+-- =====================================
+
 -- Table creation
 
 CREATE TABLE customers (
