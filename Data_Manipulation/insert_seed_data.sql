@@ -1,3 +1,7 @@
+-- =====================================
+--  Insert seed data
+-- =====================================
+
 -- Data insertion
 
 INSERT INTO categories (CategoryName, Description) VALUES
