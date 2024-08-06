@@ -21,7 +21,7 @@ GROUP BY orderid
 ) AS subquery
 WHERE orders.orderid = subquery.orderid;
 
--- Individual changes for database
+-- Individual updates for database 
 -- Manually changing individual shippingcost
 SELECT * FROM shipping
 SELECT shippingid, orderid, shippingcost FROM shipping WHERE shippingcost > 15;
