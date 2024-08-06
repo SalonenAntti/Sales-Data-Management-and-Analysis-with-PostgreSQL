@@ -1,22 +1,16 @@
+-- =====================================
+--  Altering tables
+-- =====================================
 
-
-SELECT table_name
-FROM information_schema.tables
-WHERE table_schema = 'public'
-ORDER BY table_name;
-
-
-
-
-
-
+-- Setting relations between tables correcly
+-- Updating orderitems table prices from product table
 SELECT * FROM orderitems
 UPDATE orderitems
 SET unitprice = p.price
 FROM products p
 WHERE orderitems.productid = p.productid
 
-
+-- Setting order table totalamount as quantity * unitprice from orderitems
 SELECT * FROM orders
 UPDATE orders
 SET totalamount = subquery.total
@@ -27,28 +21,23 @@ GROUP BY orderid
 ) AS subquery
 WHERE orders.orderid = subquery.orderid;
 
-
-
-
-
-
-
-
+-- Individual changes for database
+-- Manually changing individual shippingcost
 SELECT * FROM shipping
 SELECT shippingid, orderid, shippingcost FROM shipping WHERE shippingcost > 15;
 UPDATE shipping
 SET shippingcost = 22.50
 WHERE shippingid = 154
 
-
+-- Changing individual product description
 Select * FROM products
 SELECT * FROM products WHERE productname = 'Milk';
 UPDATE products
 SET description = '1 liter of fat free milk'
 WHERE productid = 1;
 
-
-SELECT * FROM suppalliers
+-- Altering suppliers table
+SELECT * FROM suppliers
 DELETE FROM suppliers
 WHERE supplierid = 9;
 
