@@ -2,15 +2,15 @@
 
 ## Overview
 
-This project leverages PostgreSQL in Sales Data Management and Analysis. The project focuses on database management, data manipulation, query optimization and data analysis.
+This project leverages PostgreSQL in Sales Data Management and Analysis. The project focuses on database management, data manipulation, query optimization, data analysis and visualization.
 
 
 ## Project Description
 
-This repository contains PostgreSQL project with hypothetical scenario of small retail e-commerce business and their relational database. The project is done with PostgreSQL and then documented in Jupyter Notebook, covering all aspects mentioned below.
-The goal of the project was to design, create use and manage relational database efficiently. Use of relational database contained varioustasks including data manipulation with CRUD operations and daily sales analysis.
+This repository contains PostgreSQL project with hypothetical scenario of small retail E-Commerce business and their relational database. The project is done with PostgreSQL and then documented visualized with Tableau.
+The goal of the project was to design, create use and manage relational database efficiently. Use of relational database contained various tasks including data manipulation with CRUD operations and daily sales analysis.
 
-Insights of a data analysis gathered for Tableau Interactive Dashboard. Find TABLEAU folder.
+Insights of a data analysis gathered for Tableau Interactive Dashboard. Find TABLEAU folder containing screenshot of the dashboard and link in README_Tableau with instructions for the dashboard.
 
 ## Table of Contents
 
