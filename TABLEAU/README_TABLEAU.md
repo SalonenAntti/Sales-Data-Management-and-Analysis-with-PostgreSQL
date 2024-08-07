@@ -8,7 +8,6 @@ This interactive dashboard features several functionalities to enhance user expe
 
 **Key Performance Indicators (KPIs)**: Displayed at the top for a quick overview.
 
-<br>
 
 **Visualization Modules**:
 
