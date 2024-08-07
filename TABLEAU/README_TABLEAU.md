@@ -8,6 +8,8 @@ This interactive dashboard features several functionalities to enhance user expe
 
 **Key Performance Indicators (KPIs)**: Displayed at the top for a quick overview.
 
+<br>
+
 **Visualization Modules**:
 
 Moving Average: Users can add a moving average line to the sales data  visualization. Options include none, 7-day, 14-day, and 21-day moving        averages.
@@ -16,8 +18,12 @@ Order Date Filter: Allows users to adjust the time period for all visualizations
 
 Time Granularity: Users can switch between daily and monthly views to analyze data at different levels of detail.
 
+<br>
+
 **Highlight Feature**:
 Hovering or clicking on dashboard elements, such as the name of a key account, highlights related data points. For example, hovering over a customer's name will highlight their location on the map, allowing users to easily identify the locations of valuable customers.
+
+<br>
 
 **Tooltip Information**: Hovering over components will display a pop-up window with key information, providing quick insights into the data.
 This dashboard is designed to provide a dynamic and user-friendly way to explore and analyze sales data.
