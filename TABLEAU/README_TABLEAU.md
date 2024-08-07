@@ -2,7 +2,7 @@
 
 Link: https://public.tableau.com/app/profile/antti.salonen/viz/Book1_17224294763130/Dashboard1
 
-This interactive dashboard features several functionalities to enhance user experience and data analysis:
+This interactive dashboard features several functionalities to enhance user experience and data analysis: <br>
 
 **Key Performance Indicators (KPIs)**: Displayed at the top for a quick overview.
 
