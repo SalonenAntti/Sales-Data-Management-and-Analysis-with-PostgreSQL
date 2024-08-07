@@ -15,8 +15,8 @@ Insights of a data analysis gathered for Tableau Interactive Dashboard. Find TAB
 ## Table of Contents
 
 **Database Schema Design:** Creation of structured relational database with multiple related tables. Setting primary keys, foreign keys, unique constraints, and check constraints. Bulk data inserts.<br>
-**Data Manipulation:** Various CRUD operations (Create, Read, Update, Delete). Indexing for important tables. Setting relations as aggregation.
-**Procedures and Triggers:** Creation of stored procedures for reusable logic and Triggers to enforce business way of act.
+**Data Manipulation:** Various CRUD operations (Create, Read, Update, Delete). Indexing for important tables. Setting relations as aggregation.<br>
+**Procedures and Triggers:** Creation of stored procedures for reusable logic and Triggers to enforce business way of act.<br>
 **Data Analysis:** Joins, Aggregations, Subqueries, Window Functions.
 
 **TABLEAU Interactive Dashboard:** Interactive Dashboard made with data quaried from relational databases. Find Screenshot of the table in TABLEAU folder, as well as link to Tableau Public to use the dashboard.
