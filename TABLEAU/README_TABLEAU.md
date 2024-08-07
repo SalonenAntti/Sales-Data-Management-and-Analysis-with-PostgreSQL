@@ -7,7 +7,7 @@ This interactive dashboard features several functionalities to enhance user expe
 **Key Performance Indicators (KPIs)**: Displayed at the top for a quick overview.
 
 **Visualization Modules**:
-    **Moving Average**: Users can add a moving average line to the sales data         visualization. Options include none, 7-day, 14-day, and 21-day moving         averages.
+**Moving Average**: Users can add a moving average line to the sales data  visualization. Options include none, 7-day, 14-day, and 21-day moving        averages.
 Order Date Filter: Allows users to adjust the time period for all visualizations, enabling quick and convenient review of specific time frames.
 Time Granularity: Users can switch between daily and monthly views to analyze data at different levels of detail.
 Highlight Feature:
