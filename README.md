@@ -4,6 +4,7 @@
 
 This project leverages PostgreSQL in Sales Data Management and Analysis. The project focuses on database management, data manipulation, query optimization and data analysis.
 
+
 ## Project Description
 
 This repository contains PostgreSQL project with hypothetical scenario of small retail e-commerce business and their relational database. The project is done with PostgreSQL and then documented in Jupyter Notebook, covering all aspects mentioned below.
